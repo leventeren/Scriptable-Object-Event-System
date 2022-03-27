@@ -1,1 +1,1 @@
-# Scriptable-Object-Event-System
+# Scriptable Object Event System
